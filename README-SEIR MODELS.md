@@ -1,5 +1,5 @@
 # Mathematical-Modeling
-research assignments in college
+This research is an undergraduate thesis in the department of mathematics.
 
 Stability Analysis Of SEIR Models On The Spread Of COVID-19 In DKI Jakarta With Vaccination
 This study was aimed to explain the SEIR mathematical model and explained
